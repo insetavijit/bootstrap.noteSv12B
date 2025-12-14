@@ -1,0 +1,269 @@
+{
+  "main": {
+    "id": "135d86cd5fdd8538",
+    "type": "split",
+    "children": [
+      {
+        "id": "d8903e6e8ccb7744",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a6ef68a231a3dd46",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "7ab44b9d36c288a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fe4f5d4c804276d0",
+    "type": "split",
+    "children": [
+      {
+        "id": "fac410c342decbb3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "078c53181132678b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "062f773acca88ad5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#SECRION",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "0541dcb9f10fa7c3",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "f4b0cb24db6f7438",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "efc5b95926108ea7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Untitled 1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Untitled 1"
+            }
+          },
+          {
+            "id": "adae0d0d7e26f88e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Untitled 1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Untitled 1"
+            }
+          },
+          {
+            "id": "d983c7958beeaa24",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Untitled.md",
+                "followCursor": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Untitled"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 344,
+    "collapsed": true
+  },
+  "right": {
+    "id": "86282bed756eab44",
+    "type": "split",
+    "children": [
+      {
+        "id": "7236b54bbe262df4",
+        "type": "tabs",
+        "dimension": 74.95238095238095,
+        "children": [
+          {
+            "id": "04677682336db9d2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          }
+        ]
+      },
+      {
+        "id": "d2614f85aff65fd9",
+        "type": "tabs",
+        "dimension": 25.047619047619047,
+        "children": [
+          {
+            "id": "e473ccec1fb6cfed",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "4dae71c85c568d77",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "git-view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 244
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "daily-notes:Open today's daily note": false,
+      "graph:Open graph view": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "a6ef68a231a3dd46",
+  "lastOpenFiles": [
+    "_bin/BOOTSTRAP 5 STUDY tree.md",
+    "_bin",
+    "05 STAYING CURRENT/05 STAYING CURRENT.md",
+    "05 STAYING CURRENT",
+    "03 QUICK REFERENCE/03 QUICK REFERENCE.md",
+    "01 FOUNDATIONS/01 FOUNDATIONS.md",
+    "04 ACTIVE RECALL/04 ACTIVE RECALL.md",
+    "04 ACTIVE RECALL",
+    "03 QUICK REFERENCE",
+    "02 APPLIED PRACTICE/02 APPLIED PRACTICE.tree.md",
+    "02 APPLIED PRACTICE/02 APPLIED PRACTICE.map.md",
+    "01 FOUNDATIONS",
+    "Untitled.md",
+    "02 APPLIED PRACTICE/2.1 Code Examples/Typography & spacing utilities.md",
+    "02 APPLIED PRACTICE/2.1 Code Examples/Toast notifications.md",
+    "02 APPLIED PRACTICE/2.1 Code Examples/Role-based layout for dashboards-CRM.md",
+    "02 APPLIED PRACTICE/2.1 Code Examples/Responsive images & ratios.md",
+    "02 APPLIED PRACTICE/2.1 Code Examples/Offcanvas sidebar navigation.md",
+    "02 APPLIED PRACTICE/2.1 Code Examples/Navbar starter template.md",
+    "02 APPLIED PRACTICE/2.1 Code Examples/Multi-level navbar & offcanvas hybrid.md",
+    "02 APPLIED PRACTICE/2.1 Code Examples/Modal & collapse workflows.md",
+    "02 APPLIED PRACTICE/2.1 Code Examples/Grid & layout basics.md",
+    "02 APPLIED PRACTICE/2.1 Code Examples/Dark mode + theme switching via CSS variables.md",
+    "02 APPLIED PRACTICE/2.1 Code Examples/Cards + responsive grid layouts.md",
+    "02 APPLIED PRACTICE/2.1 Code Examples/Buttons & utilities.md",
+    "02 APPLIED PRACTICE/2.1 Code Examples/Accordion (FAQ pattern).md",
+    "02 APPLIED PRACTICE/2.1 Code Examples/Bootstrap + SPA frameworks (React, Vue, Angular).md",
+    "02 APPLIED PRACTICE/2.1 Code Examples/Accessibility-first implementation (WCAG AA).md",
+    "02 APPLIED PRACTICE/2.1 Code Examples",
+    "02 APPLIED PRACTICE",
+    "wordpresServices.noteS.v12B/01 Custom WordPress Website Development/@Deliverables 01.md",
+    "wordpresServices.noteS.v12B/01 Custom WordPress Website Development/Basic SEO setup & performance optimization.md",
+    "TOP10 Website Type",
+    "Email/desktop.ini",
+    "Email",
+    "Untitled.canvas"
+  ]
+}
