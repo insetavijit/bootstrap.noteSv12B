@@ -2,7 +2,7 @@
 #### **2.1.1 Basic Examples — essential installations & components**
 _Foundational elements required for building responsive interfaces with Bootstrap 5.x._
 
-- [[Grid & layout basics]] — `container → row → col`
+- [[1.1.1 Grid & layout basics]] — `container → row → col`
     
 - [[Buttons & utilities]] — color / size / spacing
     
